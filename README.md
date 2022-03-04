@@ -2,7 +2,7 @@
 
 -Arushi Goyal, 2020CS50418</br>
 
-This is the readme file for COL226 Assignment 3: Abstract Syntax Trees(ASTs) for WHILE.</br>
+This is the readme file for ``` COL226 Assignment 3: Abstract Syntax Trees(ASTs) for WHILE ```.</br>
 I have used ML-Lex and ML-Yacc tools for performing lexing and parsing operations.</br>
 
 ## AST Datatype definition
@@ -78,7 +78,7 @@ I have used ML-Lex and ML-Yacc tools for performing lexing and parsing operation
 
  ## Acknowledgements
  
- 1. Andrew W. Appel, James S. Mattson, David R. Tarditi: User's Guide to ML-Lex and ML-Yacc</br>
+ 1. ``` Andrew W. Appel, James S. Mattson, David R. Tarditi: ``` User's Guide to ML-Lex and ML-Yacc</br>
  The file compiler.sml has been taken from the example program pi in this pdf. I have taken few references from .lex files of the pi program to write my own ast.lex.
  2. https://github.com/arch1902/COL226-PL-Assignments (Github profile of IITD Senior: Arpit Chahuhan)</br>
  I have taken references for the syntax for grammar definition of the WHILE language from .yacc files in this repository.</br>
