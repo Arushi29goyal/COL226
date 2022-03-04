@@ -83,6 +83,12 @@ I have used ML-Lex and ML-Yacc tools for performing lexing and parsing operation
  2. https://github.com/arch1902/COL226-PL-Assignments (Github profile of IITD Senior: Arpit Chahuhan)</br>
  I have taken references for the syntax for grammar definition of the WHILE language from .yacc files in this repository.</br>
  
+ ## How to Run
+ 
+ 1. Run ```ml-lex ast.lex``` in the terminal.
+ 2. Run ```ml-yacc ast.yacc``` in the terminal.
+ 3. In the sml interactive shell, use the command ```CM.make "ast.cm";``` to run.
+ 
  
  
  
